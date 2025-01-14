@@ -1,4 +1,8 @@
-<h1>my resume site link :</h1>
-<a>https://ata-ranjbaran.github.io/my-resume/</a>
+<h1>my resume :</h1>
+<p>my resume site link address :</p>
+<pre>https://ata-ranjbaran.github.io/my-resume/</pre>
 <hr>
-<img scr="screencapture-ata-ranjbaran-github-io-my-resume-2025-01-15-16_50_55.png">
+<div style="display:flex;justify-contect:center;" align=center>
+  
+<img src="./resume.png" alt="تصویر رزومه" width=700px>
+</div>
